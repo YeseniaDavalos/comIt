@@ -1,0 +1,25 @@
+{
+  "name": "comit",
+  "version": "1.0.0",
+  "description": "Código que usamos en nuestras clases de ComIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/YeseniaDavalos/comIt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YeseniaDavalos/comIt/issues"
+  },
+  "homepage": "https://github.com/YeseniaDavalos/comIt#readme",
+  "devDependencies": {
+    "@babel/core": "^7.26.9",
+    "@babel/preset-env": "^7.26.9",
+    "babel-jest": "^29.7.0"
+  }
+}

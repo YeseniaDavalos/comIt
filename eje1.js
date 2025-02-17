@@ -1,8 +1,8 @@
-var nombre;
-var apellido;
-var edad;
-var fechaDeNacimiento;
-var direccion;
+export var nombre;
+export var apellido;
+export var edad;
+export var fechaDeNacimiento;
+export var direccion;
 
 
 

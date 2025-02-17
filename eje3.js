@@ -1,2 +1,2 @@
-var nombre = "Yess";
-var edad = 30;
+export var nombre = "Yess";
+export var edad = 30;

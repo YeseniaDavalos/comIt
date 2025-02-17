@@ -1,5 +1,5 @@
-var nombre;
-var  edad;
+export var nombre;
+export var  edad;
 nombre = "Yess";
 edad = 30;
 
